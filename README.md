@@ -8,6 +8,8 @@ Image_dataset-https://drive.google.com/file/d/1Y37dUIocd2hjADk7FmMP-ptmzAssFQcN/
 
 Text_datset-https://drive.google.com/file/d/179RcanAzTFNXguIboXn2ZI1hx7tWKk16/view?usp=sharing
 
+feature file saved during working in notebook can be found at -https://drive.google.com/file/d/1RMcRP2PeSp5FCEcsO8JLjr4kE6kuPZ8q/view?usp=sharing
+
 As i have made this project on google colab so basic steps followed are
 
 1.upload you dataset in the google drive in a folder named Image_caption
