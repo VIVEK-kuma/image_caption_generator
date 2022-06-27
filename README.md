@@ -14,3 +14,5 @@ As i have made this project on google colab so basic steps followed are
 
 1.upload you dataset in the google drive in a folder named Image_caption
 
+# Video Submission
+https://youtu.be/sm6yLdE_1jQ
