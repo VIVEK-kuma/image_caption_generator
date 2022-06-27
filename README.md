@@ -13,7 +13,8 @@ feature file saved during working in notebook can be found at -https://drive.goo
 As i have made this project on google colab so basic steps followed are
 
 1.upload you dataset in the google drive in a folder named Image_caption
-
+#C_Now Logo
+![Final Eye1](https://user-images.githubusercontent.com/81191657/175931201-a5c166b7-cdd8-4e8f-884f-f7a69818ea58.png)
 # Video Submission
 https://youtu.be/sm6yLdE_1jQ
 # Presentation Slides:
