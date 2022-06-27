@@ -16,3 +16,5 @@ As i have made this project on google colab so basic steps followed are
 
 # Video Submission
 https://youtu.be/sm6yLdE_1jQ
+# Presentation Slides:
+[Untitled presentation (1) (1).pptx](https://github.com/VIVEK-kuma/image_caption_generator/files/8991478/Untitled.presentation.1.1.pptx)
